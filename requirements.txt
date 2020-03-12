@@ -118,7 +118,7 @@ plac==0.9.6
 playsound==1.2.2
 prompt-toolkit==1.0.15
 protobuf==3.5.1
-psutil==5.4.3
+psutil==5.6.6
 py4j==0.10.6
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
