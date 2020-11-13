@@ -177,7 +177,7 @@ sphinxcontrib-websupport==1.0.1
 spyder==3.2.6
 summa==0.0.7
 tabulate==0.8.2
-tensorflow-gpu==1.4.0
+tensorflow-gpu==2.3.1
 tensorflow-tensorboard==0.4.0
 tensorpack==0.8.0
 termcolor==1.1.0
