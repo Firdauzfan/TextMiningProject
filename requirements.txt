@@ -29,7 +29,7 @@ cx-Freeze==5.1.1
 cycler==0.10.0
 Cython==0.27.3
 decorator==4.2.1
-Django==2.0.1
+Django==2.2.24
 docker==2.7.0
 docker-cloud==1.0.9
 docker-compose==1.18.0
